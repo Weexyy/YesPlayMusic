@@ -186,7 +186,7 @@ class Background {
         isWindows ||
         (isLinux && this.store.get('settings.linuxEnableCustomTitlebar'))
       ),
-      title: 'YesPlayMusic',
+      title: 'Weexy Music',
       show: false,
       webPreferences: {
         webSecurity: false,
