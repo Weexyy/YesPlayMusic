@@ -729,9 +729,9 @@
       <div class="footer">
         <p class="author"
           >MADE BY
-          <a href="https://weexy.cn/" target="_blank">Weexy</a></p
+          <a href="http://github.com/qier222" target="_blank">QIER222</a></p
         >
-        <p class="version">Weexy基于0.4.7修改</p>
+        <p class="version">v{{ version }}</p>
 
         <!--<a
           v-if="!isElectron"
