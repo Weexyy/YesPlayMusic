@@ -29,10 +29,6 @@ console.log(
 );
 
 Vue.use(
-  VueGtag,
-  {
-    config: { id: 'G-KMJJCFZDKF' },
-  },
   router
 );
 Vue.config.productionTip = false;
