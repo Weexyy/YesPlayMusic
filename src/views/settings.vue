@@ -731,8 +731,8 @@
           >MADE BY
           <a href="https://weexy.cn/" target="_blank">Weexy</a></p
         >
-        <p class="version">Weexy基于0.4.7修改</p>
-
+        <p class="version">v{{ version }}</p>
+        
         <!--<a
           v-if="!isElectron"
           href="https://vercel.com/?utm_source=ohmusic&utm_campaign=oss"
