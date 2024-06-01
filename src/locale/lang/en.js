@@ -89,7 +89,7 @@ export default {
     loginWithPhone: 'Login with Phone',
     notice: `Weexy Music promises not to save any of your account information to the cloud.<br />
       Your password will be MD5 encrypted locally and then transmitted to NetEase Music API.<br />
-      YesPlayMusic is not the official website of NetEase Music, please consider carefully before entering account information. You can also go to <a href="https://github.com/qier222/YesPlayMusic">YesPlayMusic's GitHub repository</a> to build and use the self-hosted NetEase Music API.`,
+      Weexy Music is not the official website of NetEase Music, please consider carefully before entering account information. You can also go to <a href="https://github.com/weexyy/YesPlayMusic">Weexy Music's GitHub repository</a> to build and use the self-hosted NetEase Music API.`,
     noticeElectron: `Your password will be MD5 encrypted locally and then transmitted to NetEase Music API.<br />
       Weexy Music promises not to save any of your account information to the cloud.<br />`,
   },
