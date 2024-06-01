@@ -731,7 +731,7 @@
           >MADE BY
           <a href="http://github.com/qier222" target="_blank">QIER222</a></p
         >
-        <p class="version">v{{ version }}</p>
+        <p class="version">Weeexy 基于 v{{ version }} 修改</p>
 
         <!--<a
           v-if="!isElectron"
