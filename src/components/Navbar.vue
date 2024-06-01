@@ -157,9 +157,6 @@ export default {
     toSettings() {
       this.$router.push({ name: 'settings' });
     },
-    toGitHub() {
-      window.open('https://github.com/qier222/YesPlayMusic');
-    },
     toLogin() {
       if (process.env.IS_ELECTRON === true) {
         this.$router.push({ name: 'loginAccount' });
